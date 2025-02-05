@@ -1,0 +1,35 @@
+/*База, красивая база*/
+body {
+    font-family: Arial, sans-serif; /*Шрифт*/
+    margin: 0; /*отступ*/
+    padding: 0; /*отступ*/
+    background-color: #f0f0f0; /*задний фон*/
+    color: #333; /*цвет текста*/
+}
+header {
+    background-color: #333;
+    padding: 10px 0;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    text-align: center; /*местоположение текста*/
+}
+
+nav ul li {
+    display: inline; /*строка для элементов*/
+    margin: 0 15px;
+}
+nav ul li a { /*  ссылки в header*/
+    color: white;
+    text-decoration: none; /*нужен, чтоб не применялся*/
+    font-size: 18px;
+}
+h1, h2 {
+    text-align: center;
+    color: #333;
+}
+section {
+    margin-bottom: 20px; /*Отступ*/
+}
