@@ -38,7 +38,7 @@ section {
 }
 
 .back {
-    background: #007bff url("../pictures/fon2.jpg") no-repeat 50% 0;
+    background: #ffd5bd url("../pictures/fon2.jpg") no-repeat 50% 0;
     background-attachment: fixed;
     background-size: cover;
 
